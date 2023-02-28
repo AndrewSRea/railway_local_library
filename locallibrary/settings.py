@@ -36,7 +36,7 @@ ALLOWED_HOSTS = ['web-production-bd8b.up.railway.app', '127.0.0.1']
 # (you might decide to change the site a few times).
 # ALLOWED_HOSTS = ['.railway.com', '127.0.0.1']
 
-CSRF_TRUSTED_ORIGINS = ['https://web-production-bd8b.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-bd8b.up.railway.app']
 
 
 # Application definition
